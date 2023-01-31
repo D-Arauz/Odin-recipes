@@ -28,3 +28,8 @@ img {
     height: 500px;
     width: 450px;
 }
+
+.header,
+.s-header {
+    text-shadow: 3px 3px 1px
+}
