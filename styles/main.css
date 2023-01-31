@@ -10,11 +10,12 @@
 }
 
 p {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    font-size: 40px;
 }
 
 .parent {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Georgia 'Times New Roman', Courier;
     color: red;
     font-weight: bold;
 }
