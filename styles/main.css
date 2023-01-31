@@ -1,3 +1,8 @@
+html {
+    background-image: url(../images/supernova.jpg);
+    background-size: auto;
+}
+
 .header {
     color:green;
     font-size: 55px;
@@ -9,9 +14,11 @@
     color: darkgoldenrod;
 }
 
-p {
+p,
+li {
     font-family: Verdana, 'Geneva', Tahoma, sans-serif;
     font-size: 40px;
+    color: yellow
 }
 
 .parent {
@@ -33,3 +40,4 @@ img {
 .s-header {
     text-shadow: 3px 3px 1px
 }
+
