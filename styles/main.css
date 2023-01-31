@@ -1,6 +1,7 @@
 html {
-    background-image: url(../images/supernova.jpg);
-    background-size: auto;
+    background-image: url(../images/res.webp);
+       
+    
 }
 
 .header {
@@ -28,7 +29,8 @@ li {
 }
 
 .except {
-    color: blue;
+    color: rgb(71, 192, 226);
+    font-weight: bold;
 }
 
 img {
