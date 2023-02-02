@@ -2,3 +2,13 @@ html {
     background-image: url(../images/menu-bg.jpg);
     background-size: cover;
 }
+.s-header {
+    color: lightgreen;
+    text-align: center;
+    font-size: 80px;
+}
+
+p {
+    font-size: 45px;
+    color: lightgreen;
+}
