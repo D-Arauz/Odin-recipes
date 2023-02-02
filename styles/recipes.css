@@ -3,12 +3,12 @@ html {
     background-size: cover;
 }
 .s-header {
-    color: lightgreen;
+    color: cadetblue;
     text-align: center;
     font-size: 80px;
 }
 
-p {
+p, h2 {
     font-size: 45px;
     color: lightgreen;
 }
