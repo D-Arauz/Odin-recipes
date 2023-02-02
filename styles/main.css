@@ -1,8 +1,20 @@
 html {
-    background-image: url(../images/res.webp);
+    background-image: url(../images/menu-bg.jpg);
     background-size: cover; 
 }
 
+.three li {
+    display: inline; 
+    font-family: serif;
+    font-size: 45px;
+}
+
+#header {
+    color: aquamarine;
+    font-size: 80px;
+    font-style: italic;
+    text-align: center;
+}
 .header {
     color:green;
     font-size: 55px;
@@ -42,6 +54,6 @@ img {
     text-shadow: 3px 3px 1px
 }
 
-a {
+.parent a {
     color: pink;
 }
