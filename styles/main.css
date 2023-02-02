@@ -2,58 +2,12 @@ html {
     background-image: url(../images/menu-bg.jpg);
     background-size: cover; 
 }
-
-.three li {
-    display: inline; 
-    font-family: serif;
-    font-size: 45px;
-}
-
-#header {
-    color: aquamarine;
-    font-size: 80px;
-    font-style: italic;
-    text-align: center;
-}
-.header {
-    color:green;
-    font-size: 55px;
-}
-
-.s-header {
-    font-size: 60;
-    font-weight: bold;
-    color: darkgoldenrod;
-}
-
-p,
-li {
-    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
-    font-size: 40px;
-    color: yellow
-}
-
-.parent {
-    font-family: Georgia 'Times New Roman', Courier;
-    color: red;
-    font-weight: bold;
-}
-
-.except {
-    color: rgb(71, 192, 226);
-    font-weight: bold;
-}
-
 img {
     height: 500px;
     width: 450px;
 }
-
-.header,
-.s-header {
-    text-shadow: 3px 3px 1px
-}
-
-.parent a {
-    color: pink;
+.three li {
+    display: inline; 
+    font-family: serif;
+    font-size: 45px;
 }
