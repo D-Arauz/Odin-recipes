@@ -7,8 +7,35 @@ html {
     text-align: center;
     font-size: 80px;
 }
+.header-1, .header-2, .header-3 {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 30px;
+}
+.header-1,
+p {
+    color: chartreuse;
+}
 
-p, h2 {
-    font-size: 45px;
-    color: lightgreen;
+.header-2,
+.parent {
+    color: goldenrod;
+}
+.header-3, ol {
+    color: crimson;
+}
+
+.parent, p, ol {
+    font-size: 35px;
+}
+
+.except {
+    font-size: 40px;
+    font-weight: bold;
+    color: violet;
+}
+a {
+    font-size: 40px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
