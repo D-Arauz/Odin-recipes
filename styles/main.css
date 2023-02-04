@@ -7,14 +7,18 @@ div.gallery {
     width: 500;
     height: 600;
     float: left;
-    border: 50px, snow;
-    margin: 70px;
+    border: 10px transparent;
+    margin: 100px;
     text-align: center;
 }
-.description {
-    font-family: sans-serif;
+div.gallery:hover {
+    border: 5px solid black;
+}
+.desc {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: aqua;
     font-size: 50px;
+    
 }
 
 #header {
