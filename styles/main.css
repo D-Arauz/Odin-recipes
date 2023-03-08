@@ -15,12 +15,12 @@ div.gallery {
     width: 500;
     height: 600;
     float: left;
-    border: 10px transparent;
+    border: 10px, transparent;
     margin: 100px;
     text-align: center;
 }
 div.gallery:hover {
-    border: 5px solid black;
+    border: 5px solid transparent
 }
 .desc {
     font-family: Georgia, 'Times New Roman', Times, serif;
