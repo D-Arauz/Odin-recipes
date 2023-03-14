@@ -24,14 +24,14 @@ div.gallery:hover {
 }
 .desc a {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: aqua;
+    color: whitesmoke;
     font-size: 50px;
     
 }
 
 #header {
     text-align: center;
-    color: aqua;
+    color: white;
     font-size: 85px;
     font-weight: bold;
     font-family: Impact;
