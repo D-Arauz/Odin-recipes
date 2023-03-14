@@ -22,7 +22,7 @@ div.gallery {
 div.gallery:hover {
     border: 5px solid transparent
 }
-.desc {
+.desc a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: aqua;
     font-size: 50px;
