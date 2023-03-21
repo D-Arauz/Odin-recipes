@@ -23,7 +23,7 @@ a {
   margin-bottom: 0px;
 }
 
-.Recipe-Left,.Recipe-Right {
+.Recipe-Descr,.Recipe-Ingr,.Recipe-Step {
   border-width: 10px;
   border-style: groove;
   border-color: grey;
