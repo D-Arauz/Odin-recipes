@@ -13,6 +13,11 @@ a {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.img-text {
+  font-size: 60px;
+  color: aliceblue;
+}
+
 .Recipe-Content {
   display: flex;
   flex-direction: column;
