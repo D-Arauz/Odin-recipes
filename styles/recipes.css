@@ -3,6 +3,33 @@ html {
     background-size: cover;
 }
 
+body {
+  display: block;
+}
+
+a {
+  font-size: 40px;
+  color: palevioletred;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Recipe-Content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40px;
+  margin: 60px;
+  margin-bottom: 0px;
+}
+
+.Recipe-Left,.Recipe-Right {
+  border-width: 10px;
+  border-style: groove;
+  border-color: grey;
+  padding: 30px;
+}
+
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -63,15 +90,9 @@ html {
     color: #f1f1f1;
 }
 
-
 .except {
     font-size: 40px;
     font-weight: bold;
     color: violet;
 }
 
-a {
-    font-size: 40px;
-    color: palevioletred;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
